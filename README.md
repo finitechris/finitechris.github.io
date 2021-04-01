@@ -3,5 +3,6 @@
       Code that would be considered a project </h1>
 
 # finitechris.github.io
-
-<p> The license, what license? We Don't need No stinking License</p>
+<h2>
+<p> The license, what license? "**_We Don't need No stinking License_**"</p>
+</h2>
